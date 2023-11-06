@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  /* font-family: "Dongle", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Lora", serif;
+  font-family: "Nunito", sans-serif;
+  font-family: "Urbanist", sans-serif;
+  font-family: "Varela", sans-serif;
+  font-family: "Varela Round", sans-serif; */
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
